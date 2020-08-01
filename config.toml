@@ -12,7 +12,7 @@ disableRSS                 = true
 disableHugoGeneratorInject = true
 disableKinds               = ["taxonomy", "taxonomyTerm", "RSS"]
 
-googleAnalytics = ""
+googleAnalytics = "UA-145441322-5"
 
 [outputs]
   home = ["HTML", "JSON"]
