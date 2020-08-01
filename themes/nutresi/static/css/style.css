@@ -71,7 +71,6 @@ body {
   font-weight: normal;
   line-height: 1.5;
   margin: 0 auto;
-  padding: var(--container);
   transition: all 250ms ease;
 }
 
