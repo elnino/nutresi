@@ -1,0 +1,64 @@
+<head>
+  <!-- CSS Files -->
+  {{ $styleCSS  := resources.Get "css/style.css" | minify }}
+  {{ $indexCSS  := resources.Get "css/index.css" | minify }}
+  {{ $searchCSS := resources.Get "css/search.css" | minify }}
+  <!-- Concat CSS -->
+  {{ $homeCSS := slice $styleCSS $indexCSS | resources.Concat "css/home.css" | minify }}
+  {{ $findCSS := slice $styleCSS $searchCSS | resources.Concat "css/find.css" | minify }}
+  <!-- Meta -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Kursif">
+  <meta name="description" content="{{ .Params.desc | safeHTML }}">
+  <meta name="referrer" content="unsafe-url">
+  <meta name="robots" content="index, follow">
+  <!-- Speed -->
+  <link rel="preconnect" href="https://www.google-analytics.com">
+  <link rel="dns-prefetch" href="https://www.google-analytics.com">
+  <!-- Link -->
+  <link rel="me" href="mailto:hi@uisual.com">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="icon" type="image/png" href="/images/favicon.png" sizes="48x48">
+  {{ if .IsHome }}
+  <link rel="stylesheet" href="{{ $homeCSS.Permalink }}">
+  {{ else }}
+  <link rel="stylesheet" href="{{ $findCSS.Permalink }}">
+  {{ end }}
+  <!-- Ttitle -->
+  <title>{{ if .IsHome }}Nutresi&colon; {{ .Title | safeHTML }}{{ else }}{{ .Title | safeHTML }} &mdash; Nutresi{{ end }}</title>
+  <!-- Theme Switcher -->
+  <script>
+    var rootClasses = document.documentElement.classList;
+    
+    function setTheme(themeName) {
+      localStorage.setItem('theme', themeName);
+      if (themeName === 'dark') {
+        rootClasses.remove('light');
+        rootClasses.add(themeName);
+      } else {
+        rootClasses.remove('dark');
+        rootClasses.add(themeName);
+      }
+      return;
+    }
+
+    function toggleTheme() {
+      if (localStorage.getItem('theme') === 'dark') {
+        setTheme('light');
+      } else {
+        setTheme('dark');
+      }
+      return;
+    }
+
+    (function defaultTheme() {
+      if (localStorage.getItem('theme') === 'dark') {
+        setTheme('dark');
+      } else {
+        setTheme('light');
+      }
+      return;
+    })();
+  </script>
+</head>

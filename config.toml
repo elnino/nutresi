@@ -1,0 +1,21 @@
+title        = "Nutresi"
+baseURL      = "https://nutresi.com"
+languageCode = "en-us"
+theme        = "nutresi"
+themesDir    = "themes"
+assetDir     = "themes/nutresi/static"
+publishDir   = "docs"
+
+defaultContentLanguage     = "id"
+enableRobotsTXT            = true
+disableRSS                 = true
+disableHugoGeneratorInject = true
+disableKinds               = ["taxonomy", "taxonomyTerm", "RSS"]
+
+googleAnalytics = ""
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[permalinks]
+  posts = "/:title"

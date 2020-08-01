@@ -1,0 +1,12 @@
+---
+title   : KFC Ayam Drumstick
+key     : Ayam Drumstick KFC Ayam KFC
+serving : 1 porsi (hot &amp; spicy).
+calorie : 179
+protein : 3
+fat     : 10
+carb    : 8
+jog     : 2,8
+sitemap : false
+date    : 2020-08-01T08:00:00+07:00
+---

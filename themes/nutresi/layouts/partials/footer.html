@@ -1,0 +1,37 @@
+<footer role="contentinfo">
+ <div class="column">
+  <p>&copy; 2020 Nutresi</p>
+  <p>Kursif Studio</p>
+ </div>
+</footer>
+
+<!-- JS Files -->
+{{ $fullJS   := resources.Get "js/full.js" | minify }}
+{{ $searchJS := resources.Get "js/search.js" | minify }}
+{{ $fontJS   := resources.Get "js/font.js" | minify }}
+
+<!-- Concat JS -->
+{{ $homeJS := slice $fullJS $fontJS | resources.Concat "js/home.js" | minify }}
+{{ $findJS := slice $searchJS $fontJS | resources.Concat "js/find.js" | minify }}
+
+<!-- Defer JS -->
+<script async>
+  function deferJS() {
+    var script = document.createElement("script");
+    
+    script.async = true;
+    script.src = "{{ if .IsHome }}{{ $homeJS.Permalink }}{{ else }}{{ $findJS.Permalink }}{{ end }}";
+    document.body.appendChild(script);
+  }
+  
+  if ( window.addEventListener ) {
+    window.addEventListener("load", deferJS, false);
+  } else if ( window.attachEvent ) {
+    window.attachEvent("onload", deferJS);
+  } else {
+    window.onload = deferJS;
+  }
+</script>
+
+<!-- Google Analytics -->
+<!--{{ template "_internal/google_analytics_async.html" . }}-->

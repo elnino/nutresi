@@ -1,0 +1,12 @@
+name        = "Nutresi"
+license     = "Kursif"
+licenselink = "https://github.com/elnino/nutresi/blob/master/LICENSE"
+description = "Minimal theme for Hugo."
+homepage    = "https://github.com/elnino/nutresi"
+tags        = []
+features    = []
+min_version = "0.74.1"
+
+[author]
+  name     = "Kursif Studio"
+  homepage = "https://kursif.com"
