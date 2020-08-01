@@ -1,6 +1,6 @@
 ---
 title   : Telur Ayam Rebus
-key     : Telur Ayam Rebus
+key     : Telur Rebus
 serving : 100 g.
 calorie : 155
 protein : 12,58

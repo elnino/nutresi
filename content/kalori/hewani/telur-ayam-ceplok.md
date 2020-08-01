@@ -1,6 +1,6 @@
 ---
 title   : Telur Ayam Ceplok
-key     : Telur Ayam Ceplok
+key     : Telur Ceplok
 serving : 100 g.
 calorie : 196
 protein : 13,61

@@ -1,6 +1,6 @@
 ---
 title   : Telur Ayam Scrambled
-key     : Telur Ayam Scrambled
+key     : Telur Scrambled Egg
 serving : 100 g.
 calorie : 149
 protein : 9,99

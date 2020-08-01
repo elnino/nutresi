@@ -1,6 +1,6 @@
 ---
 title   : Telur Ayam Mentah
-key     : Telur Ayam Mentah
+key     : Telur Mentah
 serving : 100 g.
 calorie : 143
 protein : 12,56

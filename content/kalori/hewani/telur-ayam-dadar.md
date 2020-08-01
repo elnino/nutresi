@@ -1,6 +1,6 @@
 ---
 title   : Telur Ayam Dadar
-key     : Telur Ayam Dadar
+key     : Telur Dadar
 serving : 100 g.
 calorie : 180
 protein : 11,16

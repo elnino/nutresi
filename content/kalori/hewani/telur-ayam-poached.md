@@ -1,6 +1,6 @@
 ---
 title   : Telur Ayam Poached
-key     : Telur Ayam Poached
+key     : Telur Poached Egg
 serving : 100 g.
 calorie : 143
 protein : 12,51
