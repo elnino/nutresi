@@ -1,6 +1,6 @@
 ---
 title   : KFC Ayam Wing
-key     : Ayam Wing KFC Ayam KFC
+key     : Daging Ayam Wing KFC Ayam KFC
 serving : 1 porsi (original recipe).
 calorie : 188
 protein : 14

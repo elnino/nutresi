@@ -1,6 +1,6 @@
 ---
 title   : KFC Ayam Breast
-key     : Ayam Breast KFC Ayam KFC
+key     : Daging Ayam Breast KFC Ayam KFC
 serving : 1 porsi (original recipe).
 calorie : 342
 protein : 38

@@ -1,6 +1,6 @@
 ---
 title   : KFC Ayam Thigh
-key     : Ayam Thigh KFC Ayam KFC
+key     : Daging Ayam Thigh KFC Ayam KFC
 serving : 1 porsi (original recipe).
 calorie : 287
 protein : 20

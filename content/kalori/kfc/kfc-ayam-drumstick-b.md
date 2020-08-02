@@ -1,6 +1,6 @@
 ---
 title   : KFC Ayam Drumstick
-key     : Ayam Drumstick KFC Ayam KFC
+key     : Daging Ayam Drumstick KFC Ayam KFC
 serving : 1 porsi (hot &amp; spicy).
 calorie : 179
 protein : 3
