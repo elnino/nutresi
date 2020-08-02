@@ -55,7 +55,7 @@
       return;
     }
     
-    note.innerText = 'Ditemukan ' + numResults + ' hasil untuk \u201C' + query + '\u201D.';
+    note.innerText = 'Ditemukan ' + numResults + ' hasil untuk: \u201C' + query + '\u201D.';
     
     var searchItems = "";
     
