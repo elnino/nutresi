@@ -163,6 +163,8 @@ main {
 |
 --------------------------------------------------------------*/
 
+label { display: block; }
+
 input {
   background:
     var(--secondary-color)
