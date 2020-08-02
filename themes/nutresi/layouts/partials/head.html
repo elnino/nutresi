@@ -14,18 +14,29 @@
   <meta name="referrer" content="unsafe-url">
   <meta name="robots" content="index, follow">
   <!-- Speed -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://www.google-analytics.com">
   <link rel="dns-prefetch" href="https://www.google-analytics.com">
   <!-- Link -->
-  <link rel="me" href="mailto:hi@uisual.com">
+  <link rel="me" href="mailto:hi@nutresi.com">
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="icon" type="image/png" href="/images/favicon.png" sizes="48x48">
+  <!-- Performance -->
   {{ if .IsHome }}
+  <link rel="preload" as="style" href="{{ $homeCSS.Permalink }}">
   <link rel="stylesheet" href="{{ $homeCSS.Permalink }}">
+  <link rel="preload" as="script" href="/js/home.min.js">
+  <link rel="prefetch" as="style" href="{{ $findCSS.Permalink }}">
+  <link rel="prefetch" as="script" href="/js/find.min.js">
+  <link rel="prefetch" as="fetch" href="/index.json" crossorigin>
   {{ else }}
+  <link rel="preload" as="style" href="{{ $findCSS.Permalink }}">
   <link rel="stylesheet" href="{{ $findCSS.Permalink }}">
+  <link rel="preload" as="script" href="/js/find.min.js">
+  <link rel="preload" as="fetch" href="/index.json" crossorigin>
   {{ end }}
-  <!-- Ttitle -->
+  <!-- Title -->
   <title>{{ if .IsHome }}Nutresi&colon; {{ .Title | safeHTML }}{{ else }}{{ .Title | safeHTML }} &mdash; Nutresi{{ end }}</title>
   <!-- Theme Switcher -->
   <script>
