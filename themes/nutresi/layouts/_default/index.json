@@ -1,14 +1,14 @@
 [
   {{- range $index, $page := .Site.RegularPages -}}
     {{- if gt $index 0 -}} , {{- end -}}
-    {{- $entry := dict "title" $page.Title -}}
-    {{- $entry = merge $entry (dict "key" $page.Params.key) -}}
-    {{- $entry = merge $entry (dict "serving" $page.Params.serving) -}}
-    {{- $entry = merge $entry (dict "calorie" $page.Params.calorie) -}}
-    {{- $entry = merge $entry (dict "protein" $page.Params.protein) -}}
-    {{- $entry = merge $entry (dict "fat" $page.Params.fat) -}}
-    {{- $entry = merge $entry (dict "carb" $page.Params.carb) -}}
-    {{- $entry = merge $entry (dict "jog" $page.Params.jog) -}}
+    {{- $entry := dict "t" $page.Title -}}
+    {{- $entry = merge $entry (dict "k" $page.Params.key) -}}
+    {{- $entry = merge $entry (dict "s" $page.Params.serving) -}}
+    {{- $entry = merge $entry (dict "c" $page.Params.calorie) -}}
+    {{- $entry = merge $entry (dict "p" $page.Params.protein) -}}
+    {{- $entry = merge $entry (dict "f" $page.Params.fat) -}}
+    {{- $entry = merge $entry (dict "o" $page.Params.carb) -}}
+    {{- $entry = merge $entry (dict "j" $page.Params.jog) -}}
     {{- $entry | jsonify -}}
   {{- end -}}
 ]

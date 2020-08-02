@@ -22,7 +22,7 @@
   const pat = new RegExp(query.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
   
   // Search the keywords.
-  const keys = ['title', 'key'];
+  const keys = ['t', 'k'];
   
   function search(item) {
     for (var i = 0; i < keys.length; i++) {
@@ -71,19 +71,19 @@
     for (var i = 0; i < numResults; i++) {
       searchItems +=
         '<article><div class="product"><h2>' +
-        results[i].title +
+        results[i].t +
         '</h2><p>Per ' +
-        results[i].serving +
+        results[i].s +
         '</p></div><div class="nutrition"><p>Protein<br><span>' +
-        results[i].protein +
+        results[i].p +
         '</span>g</p><p>Lemak<br><span>' +
-        results[i].fat +
+        results[i].f +
         '</span>g</p><p>Karbohidrat<br><span>' +
-        results[i].carb +
+        results[i].o +
         '</span>g</p></div><div class="calorie"><p><i class="emoji-fire"></i><span>' +
-        results[i].calorie +
+        results[i].c +
         '</span>kkal</p><p><i class="emoji-shoe"></i><span>' +
-        results[i].jog +
+        results[i].j +
         '</span>km</p></div></article>';
     }
     
