@@ -3,6 +3,8 @@
 (function() {
   const form = document.querySelector('.search');
   const note = document.querySelector('.note');
+  
+  // Match the url.
   const find = window.location.href.match(/\?kalori=([^&]+)/);
   
   if (!find) {
@@ -10,14 +12,16 @@
     return;
   }
   
+  // Get the search query.
   const query = decodeURIComponent(find[1].replace(/\+/g, ' '));
   
   form.value = query;
   
-  note.innerText = 'Mencari "' + query + '"\u2026';
+  note.innerText = 'Tunggu! Mencari: \u201C' + query + '\u201D.';
   
   const pat = new RegExp(query.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
   
+  // Search the keywords.
   const keys = ['title', 'key'];
   
   function search(item) {
@@ -34,19 +38,23 @@
     return false;
   }
   
+  // Request JSON.
   var httpRequest = new XMLHttpRequest();
   
   httpRequest.onreadystatechange = function() {
     if (httpRequest.readyState !== 4) { return; }
     
+    // Print connection error.
     if (httpRequest.status !== 200) {
       note.innerText = 'Terjadi masalah. Silakan coba lagi.';
       return;
     }
     
     const results = JSON.parse(httpRequest.responseText).filter(search);
+    
     const numResults = results.length;
     
+    // Print not found.
     if (numResults === 0) {
       note.innerText =
         'Tidak ada hasil untuk: \u201C' +
@@ -55,6 +63,7 @@
       return;
     }
     
+    // Print search results.    
     note.innerText = 'Ditemukan ' + numResults + ' hasil untuk: \u201C' + query + '\u201D.';
     
     var searchItems = "";
