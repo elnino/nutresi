@@ -1,6 +1,4 @@
 <form action="/cari" aria-label="Cari data kalori.">
-  <label for="kalori">
-    <input type="text" name="kalori" placeholder="ketik nama produk" autofocus required class="search">
-  </label>
+  <input type="text" name="kalori" id="kalori" placeholder="ketik nama produk" autofocus required aria-label="Cari Kalori" class="search">
 </form>
 <p class="note">{{ if .IsHome }}Contoh: <a href="cari/?kalori=jus+buah">Jus Buah</a>, <a href="cari/?kalori=mcd">McDonald&rsquo;s</a>, <a href="cari/?kalori=telur">Telur</a>, dll.{{ end }}</p>

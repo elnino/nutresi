@@ -30,7 +30,7 @@ TABLE OF CONTENT
   --secondary-color: #ffffff;
   --tertiary-color : #eaeaea;
   --primary-text   : #000000;
-  --secondary-text : #959595;
+  --secondary-text : #858585;
   --tertiary-text  : #b1b1b1;
   --shadow-color   : rgba(0, 0, 0, .0375);
   
@@ -47,7 +47,7 @@ TABLE OF CONTENT
   --tertiary-color : #353535;
   --primary-text   : #f5f5f5;
   --secondary-text : #b1b1b1;
-  --tertiary-text  : #757575;
+  --tertiary-text  : #858585;
   --shadow-color   : rgba(0, 0, 0, .25);
 }
 
@@ -162,8 +162,6 @@ main {
 | 3.1 SEARCH
 |
 --------------------------------------------------------------*/
-
-label { display: block; }
 
 input {
   background:
