@@ -21,21 +21,21 @@
   <!-- Link -->
   <link rel="me" href="mailto:hi@nutresi.com">
   <link rel="canonical" href="{{ .Permalink }}">
-  <link rel="icon" type="image/png" href="/images/favicon.png" sizes="48x48">
+  <link rel="icon" type="image/png" href="{{ "images/favicon.png" | absURL }}" sizes="48x48">
   <!-- Performance -->
   {{ if .IsHome }}
   <link rel="preload" as="style" href="{{ $homeCSS.Permalink }}">
-  <link rel="preload" as="script" href="{{ .Site.BaseURL }}js/home.min.js">
+  <link rel="preload" as="script" href="{{ "js/home.min.js" | absURL }}">
   <link rel="prefetch" as="style" href="{{ $findCSS.Permalink }}">
-  <link rel="prefetch" as="script" href="{{ .Site.BaseURL }}js/find.min.js">
-  <link rel="prefetch" as="fetch" href="{{ .Site.BaseURL }}index.json" crossorigin>
+  <link rel="prefetch" as="script" href="{{ "js/find.min.js" | absURL }}">
+  <link rel="prefetch" as="fetch" href="{{ "index.json" | absURL }}" crossorigin>
   <link rel="stylesheet" href="{{ $homeCSS.Permalink }}">
   {{ else }}
   <link rel="preload" as="style" href="{{ $findCSS.Permalink }}">
-  <link rel="preload" as="script" href="{{ .Site.BaseURL }}js/find.min.js">
-  <link rel="preload" as="fetch" href="{{ .Site.BaseURL }}index.json" crossorigin>
+  <link rel="preload" as="script" href="{{ "js/find.min.js" | absURL }}">
+  <link rel="preload" as="fetch" href="{{ "index.json" | absURL }}" crossorigin>
   <link rel="prefetch" as="style" href="{{ $homeCSS.Permalink }}">
-  <link rel="prefetch" as="script" href="{{ .Site.BaseURL }}js/home.min.js">
+  <link rel="prefetch" as="script" href="{{ "js/home.min.js" | absURL }}">
   <link rel="stylesheet" href="{{ $findCSS.Permalink }}">
   {{ end }}
   <!-- Title -->

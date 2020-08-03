@@ -1,5 +1,5 @@
 title        = "Nutresi"
-baseURL      = "https://nutresi.com"
+baseURL      = "https://nutresi.com/"
 languageCode = "en-us"
 theme        = "nutresi"
 themesDir    = "themes"
