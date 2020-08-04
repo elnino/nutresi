@@ -1,6 +1,6 @@
 ---
 title   : KFC French Fries
-key     : Kentang French Fries KFC
+key     : Kentang Goreng French Fries KFC
 serving : 1 porsi regular.
 calorie : 242
 protein : 4

@@ -1,6 +1,6 @@
 ---
 title   : Burger King French Fries
-key     : Kentang French Fries Burger King
+key     : Kentang Goreng French Fries Burger King
 serving : 1 porsi small.
 calorie : 320
 protein : 4

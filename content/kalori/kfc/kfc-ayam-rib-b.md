@@ -1,7 +1,7 @@
 ---
 title   : KFC Ayam Rib
-key     : Daging Ayam Rib KFC Ayam KFC
-serving : 1 porsi (hot &amp; spicy).
+key     : Daging Ayam Dada Ayam KFC Ayam Goreng KFC
+serving : 1 porsi (hot &amp; crispy).
 calorie : 328
 protein : 28
 fat     : 20

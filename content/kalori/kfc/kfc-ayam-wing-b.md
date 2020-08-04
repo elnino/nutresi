@@ -1,7 +1,7 @@
 ---
 title   : KFC Ayam Wing
-key     : Daging Ayam Wing KFC Ayam KFC
-serving : 1 porsi (hot &amp; spicy).
+key     : Daging Ayam Sayap Ayam KFC Ayam Goreng KFC
+serving : 1 porsi (hot &amp; crispy).
 calorie : 204
 protein : 12
 fat     : 14

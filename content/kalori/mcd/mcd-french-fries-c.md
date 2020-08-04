@@ -1,6 +1,6 @@
 ---
 title   : McD French Fries
-key     : McDonald's Kentang French Fries McD
+key     : McDonald's Kentang Goreng French Fries McD
 serving : 1 porsi large.
 calorie : 490
 protein : 7
