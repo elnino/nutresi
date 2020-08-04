@@ -1,6 +1,6 @@
 ---
 title   : Chatime Chocolate Milk Tea
-key     : Chocolate Milk Tea Chatime Milk Tea Teh Chatime Teh
+key     : Chocolate Milk Tea Chatime Milk Tea Teh
 serving : 1 cup regular (es pakai gula).
 calorie : 399
 protein : 3,5

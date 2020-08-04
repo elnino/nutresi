@@ -1,6 +1,6 @@
 ---
 title   : Starbucks White Chocolate Mocha Frappuccino
-key     : Kopi Starbucks Coffee Starbucks Frappuccino Starbucks Kopi
+key     : Kopi Starbucks Frappuccino Starbucks
 serving : 1 cup venti + whipped cream.
 calorie : 481
 protein : 8,1

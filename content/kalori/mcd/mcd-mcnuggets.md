@@ -1,6 +1,6 @@
 ---
-title   : McD Chicken McNuggets
-key     : McDonald's Chicken McNuggets Mcd Chicken Nugget McD
+title   : McD McNuggets
+key     : McDonald's McNuggets Mcd Chicken Nugget McD
 serving : 1 nugget.
 calorie : 42
 protein : 2,3

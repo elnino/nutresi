@@ -1,6 +1,6 @@
 ---
 title   : KFC Deluxe Burger
-key     : Deluxe Burger KFC Burger KFC
+key     : Deluxe Burger KFC Burger
 serving : 1 porsi.
 calorie : 340
 protein : 9

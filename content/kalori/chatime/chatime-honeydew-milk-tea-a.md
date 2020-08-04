@@ -1,6 +1,6 @@
 ---
 title   : Chatime Honeydew Milk Tea
-key     : Honeydew Milk Tea Chatime Milk Tea Teh Chatime Teh
+key     : Honeydew Milk Tea Chatime Milk Tea Teh
 serving : 1 cup regular (es pakai gula).
 calorie : 217
 protein : 1

@@ -1,6 +1,6 @@
 ---
 title   : Starbucks Java Chip Frappuccino
-key     : Kopi Starbucks Coffee Starbucks Frappuccino Starbucks Kopi
+key     : Kopi Starbucks Frappuccino Starbucks
 serving : 1 cup grande + whipped cream.
 calorie : 456
 protein : 7,2

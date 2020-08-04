@@ -1,6 +1,6 @@
 ---
 title   : Starbucks Coffee Frappuccino
-key     : Kopi Starbucks Coffee Starbucks Frappuccino Starbucks Kopi
+key     : Kopi Starbucks Frappuccino Starbucks
 serving : 1 cup venti.
 calorie : 278
 protein : 5,8

@@ -1,6 +1,6 @@
 ---
 title   : Chatime Matcha Latte Milk Tea
-key     : Matcha Latte Milk Tea Chatime Milk Tea Teh Chatime Teh
+key     : Matcha Latte Milk Tea Chatime Milk Tea Teh
 serving : 1 cup regular (es pakai gula).
 calorie : 190
 protein : 6,5

@@ -1,6 +1,6 @@
 ---
 title   : Starbucks Vanilla Frappuccino
-key     : Kopi Starbucks Coffee Starbucks Frappuccino Starbucks Kopi
+key     : Kopi Starbucks Frappuccino Starbucks
 serving : 1 cup tall + whipped cream.
 calorie : 284
 protein : 4,3

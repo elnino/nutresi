@@ -1,6 +1,6 @@
 ---
 title   : Starbucks Vanilla Frappuccino
-key     : Kopi Starbucks Coffee Starbucks Frappuccino Starbucks Kopi
+key     : Kopi Starbucks Frappuccino Starbucks
 serving : 1 cup venti + whipped cream.
 calorie : 412
 protein : 6,3

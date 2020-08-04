@@ -1,6 +1,6 @@
 ---
 title   : Chatime Hazelnut Milk Tea
-key     : Hazelnut Milk Tea Chatime Milk Tea Teh Chatime Teh
+key     : Hazelnut Milk Tea Chatime Milk Tea Teh
 serving : 1 cup regular (es tanpa gula).
 calorie : 185
 protein : 1

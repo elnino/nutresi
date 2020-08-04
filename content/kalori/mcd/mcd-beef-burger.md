@@ -1,6 +1,6 @@
 ---
 title   : McD Beef Burger
-key     : McDonald's Beef Burger Mcd Burger McD
+key     : McDonald's Beef Burger Mcd Burger
 serving : 1 porsi.
 calorie : 254
 protein : 14,2

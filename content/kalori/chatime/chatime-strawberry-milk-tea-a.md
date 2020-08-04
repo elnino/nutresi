@@ -1,6 +1,6 @@
 ---
 title   : Chatime Strawberry Milk Tea
-key     : Strawberry Milk Tea Chatime Milk Tea Teh Chatime Teh
+key     : Strawberry Milk Tea Chatime Milk Tea Teh
 serving : 1 cup regular (es pakai gula).
 calorie : 259
 protein : 7

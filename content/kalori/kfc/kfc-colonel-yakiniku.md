@@ -1,6 +1,6 @@
 ---
 title   : KFC Colonel Yakiniku
-key     : Colonel Yakiniku KFC Yakiniku
+key     : Colonel Yakiniku KFC
 serving : 1 porsi.
 calorie : 660
 protein : 21
