@@ -1,6 +1,6 @@
 ---
 title   : KFC Ayam Breast
-key     : Daging Ayam Dada Ayam KFC Ayam Goreng KFC
+key     : Daging Ayam Dada Ayam KFC Dada Ayam Goreng KFC
 serving : 1 porsi (original recipe).
 calorie : 342
 protein : 38

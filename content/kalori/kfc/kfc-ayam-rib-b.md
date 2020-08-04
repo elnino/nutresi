@@ -1,6 +1,6 @@
 ---
 title   : KFC Ayam Rib
-key     : Daging Ayam Dada Ayam KFC Ayam Goreng KFC
+key     : Daging Ayam Dada Ayam KFC Dada Ayam Goreng KFC
 serving : 1 porsi (hot &amp; crispy).
 calorie : 328
 protein : 28

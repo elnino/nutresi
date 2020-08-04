@@ -1,6 +1,6 @@
 ---
 title   : KFC Ayam Thigh
-key     : Daging Ayam Paha Ayam KFC Ayam Goreng KFC
+key     : Daging Ayam Paha Ayam KFC Paha Ayam Goreng KFC
 serving : 1 porsi (original recipe).
 calorie : 287
 protein : 20
