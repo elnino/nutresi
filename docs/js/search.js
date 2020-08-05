@@ -24,11 +24,13 @@
   // Search the keywords.
   const keys = ['t', 'k'];
   
+  const withKeys = keys.length;
+  
   function search(item) {
-    for (var i = 0; i < keys.length; i++) {
+    for (var i = 0; i < withKeys; i++) {
       const key = keys[i];
       
-      if (query.toLowerCase().length < 3) {
+      if (query.length < 3) {
         return false;
       } else if (pat.test(item[key].toLowerCase())) {
         return true;
