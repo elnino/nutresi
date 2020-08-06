@@ -1,6 +1,6 @@
 ---
 title   : Buah Jeruk
-key     : Buah Jeruk
+key     : +
 serving : 100 g (daging buah).
 calorie : 47
 protein : 0,94

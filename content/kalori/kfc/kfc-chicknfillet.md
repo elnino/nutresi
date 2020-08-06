@@ -1,6 +1,6 @@
 ---
 title   : KFC Chick&rsquo;NFillet
-key     : Chick&rsquo;NFillet KFC Burger KFC
+key     : Chick'NFillet KFC Burger KFC
 serving : 1 porsi.
 calorie : 385
 protein : 12,2

@@ -1,6 +1,6 @@
 ---
 title   : Buah Blueberry
-key     : Buah Blueberry
+key     : +
 serving : 100 g (daging buah).
 calorie : 57
 protein : 0,74

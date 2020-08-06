@@ -1,6 +1,6 @@
 ---
 title   : Pizza Hut Meat Lover&rsquo;s
-key     : Meat Lover&rsquo;s Pizza Hut
+key     : Meat Lover's Pizza Hut
 serving : 1 potong (Personal Pan Pizza).
 calorie : 210
 protein : 9

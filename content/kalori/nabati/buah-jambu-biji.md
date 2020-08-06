@@ -1,6 +1,6 @@
 ---
 title   : Buah Jambu Biji
-key     : Buah Jambu Biji
+key     : +
 serving : 100 g (daging buah).
 calorie : 68
 protein : 2,55

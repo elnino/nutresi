@@ -1,6 +1,6 @@
 ---
 title   : Buah Salak
-key     : Buah Salak
+key     : +
 serving : 100 g (daging buah).
 calorie : 78
 protein : 0,39

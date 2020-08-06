@@ -1,6 +1,6 @@
 ---
 title   : Buah Alpukat
-key     : Buah Alpukat
+key     : +
 serving : 100 g (daging buah).
 calorie : 160
 protein : 2

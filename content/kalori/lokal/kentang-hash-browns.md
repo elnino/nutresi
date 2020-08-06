@@ -1,6 +1,6 @@
 ---
 title   : Hash Browns
-key     : Kentang Potato
+key     : Potato Kentang
 serving : 100 g.
 calorie : 265
 protein : 3

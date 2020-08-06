@@ -1,6 +1,6 @@
 ---
 title   : Buah Kurma
-key     : Buah Kurma
+key     : +
 serving : 100 g (daging buah).
 calorie : 277
 protein : 1,81

@@ -1,6 +1,6 @@
 ---
 title   : Buah Kiwi
-key     : Buah Kiwi
+key     : +
 serving : 100 g (daging buah).
 calorie : 61
 protein : 1,14

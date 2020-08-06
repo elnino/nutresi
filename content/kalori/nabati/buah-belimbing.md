@@ -1,6 +1,6 @@
 ---
 title   : Buah Belimbing
-key     : Buah Belimbing
+key     : +
 serving : 100 g (daging buah).
 calorie : 31
 protein : 1,04

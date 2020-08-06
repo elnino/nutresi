@@ -1,6 +1,6 @@
 ---
 title   : KFC Hash Browns
-key     : Kentang Hash Browns KFC
+key     : Potato Kentang Hash Browns KFC
 serving : 1 porsi.
 calorie : 102
 protein : 1

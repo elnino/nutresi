@@ -1,6 +1,6 @@
 ---
 title   : Buah Persik
-key     : Buah Persik
+key     : +
 serving : 100 g (daging buah).
 calorie : 39
 protein : 0,91

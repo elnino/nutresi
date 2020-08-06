@@ -1,6 +1,6 @@
 ---
 title   : McD French Fries
-key     : McDonald's Kentang Goreng French Fries McD
+key     : McDonald's Potato Kentang Goreng French Fries McD
 serving : 1 porsi medium.
 calorie : 320
 protein : 5

@@ -1,6 +1,6 @@
 ---
 title   : Buah Jambu Air
-key     : Buah Jambu Air
+key     : +
 serving : 100 g (daging buah).
 calorie : 25
 protein : 0,6

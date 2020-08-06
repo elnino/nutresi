@@ -1,6 +1,6 @@
 ---
 title   : Buah Nanas
-key     : Buah Nanas
+key     : +
 serving : 100 g (daging buah).
 calorie : 50
 protein : 0,54

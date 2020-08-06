@@ -1,6 +1,6 @@
 ---
 title   : KFC Chick&rsquo;NCheez
-key     : Chick&rsquo;NCheez KFC Burger KFC
+key     : Chick'NCheez KFC Burger KFC
 serving : 1 porsi.
 calorie : 370
 protein : 15

@@ -1,6 +1,6 @@
 ---
 title   : Buah Pisang
-key     : Buah Pisang
+key     : +
 serving : 100 g (daging buah).
 calorie : 89
 protein : 1,09

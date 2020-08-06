@@ -1,6 +1,6 @@
 ---
 title   : Buah Kelapa
-key     : Buah Kelapa
+key     : +
 serving : 100 g (daging buah).
 calorie : 354
 protein : 3,33

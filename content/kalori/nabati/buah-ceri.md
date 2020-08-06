@@ -1,6 +1,6 @@
 ---
 title   : Buah Ceri
-key     : Buah Ceri
+key     : +
 serving : 100 g (daging buah).
 calorie : 63
 protein : 1,06

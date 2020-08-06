@@ -1,6 +1,6 @@
 ---
 title   : Buah Nangka
-key     : Buah Nangka
+key     : +
 serving : 100 g (daging buah).
 calorie : 95
 protein : 1,72

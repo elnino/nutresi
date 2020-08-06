@@ -1,6 +1,6 @@
 ---
 title   : Buah Srikaya
-key     : Buah Srikaya
+key     : +
 serving : 100 g (daging buah).
 calorie : 94
 protein : 2,06

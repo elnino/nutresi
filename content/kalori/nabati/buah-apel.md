@@ -1,6 +1,6 @@
 ---
 title   : Buah Apel
-key     : Buah Apel
+key     : +
 serving : 100 g (daging buah).
 calorie : 52
 protein : 0,26

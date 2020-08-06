@@ -1,6 +1,6 @@
 ---
 title   : Buah Kesemek
-key     : Buah Kesemek
+key     : +
 serving : 100 g (daging buah).
 calorie : 127
 protein : 0,8

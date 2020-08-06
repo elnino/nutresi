@@ -1,6 +1,6 @@
 ---
 title   : Pizza Hut Cheese Lover&rsquo;s
-key     : Cheese Lover&rsquo;s Pizza Hut
+key     : Cheese Lover's Pizza Hut
 serving : 1 potong (Personal Pan Pizza).
 calorie : 170
 protein : 8

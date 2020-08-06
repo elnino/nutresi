@@ -1,6 +1,6 @@
 ---
 title   : Kentang
-key     : Sayur Potato
+key     : Sayur Kentang Potato
 serving : 100 g.
 calorie : 58
 protein : 2,57

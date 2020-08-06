@@ -1,6 +1,6 @@
 ---
 title   : Buah Delima
-key     : Buah Delima
+key     : +
 serving : 100 g (daging buah).
 calorie : 83
 protein : 1,67

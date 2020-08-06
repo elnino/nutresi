@@ -1,6 +1,6 @@
 ---
 title   : Buah Strawberry
-key     : Buah Strawberry
+key     : +
 serving : 100 g (daging buah).
 calorie : 32
 protein : 0,67

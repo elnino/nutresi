@@ -1,6 +1,6 @@
 ---
 title   : Buah Blackberry
-key     : Buah Blackberry
+key     : +
 serving : 100 g (daging buah).
 calorie : 43
 protein : 1,39

@@ -1,6 +1,6 @@
 ---
 title   : Buah Frambos
-key     : Buah Frambos
+key     : +
 serving : 100 g (daging buah).
 calorie : 52
 protein : 1,2

@@ -1,6 +1,6 @@
 ---
 title   : Buah Plum
-key     : Buah Plum
+key     : +
 serving : 100 g (daging buah).
 calorie : 46
 protein : 0,7

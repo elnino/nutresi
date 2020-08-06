@@ -1,6 +1,6 @@
 ---
 title   : Buah Pir
-key     : Buah Pir
+key     : +
 serving : 100 g (daging buah).
 calorie : 57
 protein : 0,36

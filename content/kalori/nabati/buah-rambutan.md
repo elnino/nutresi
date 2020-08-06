@@ -1,6 +1,6 @@
 ---
 title   : Buah Rambutan
-key     : Buah Rambutan
+key     : +
 serving : 100 g (daging buah).
 calorie : 68
 protein : 0,9

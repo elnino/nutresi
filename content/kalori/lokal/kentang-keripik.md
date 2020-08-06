@@ -1,6 +1,6 @@
 ---
 title   : Keripik Kentang
-key     : Potato
+key     : Potato Camilan Snack
 serving : 100 g.
 calorie : 536
 protein : 7

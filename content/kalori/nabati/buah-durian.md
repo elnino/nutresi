@@ -1,6 +1,6 @@
 ---
 title   : Buah Durian
-key     : Buah Durian
+key     : +
 serving : 100 g (daging buah).
 calorie : 147
 protein : 1,47

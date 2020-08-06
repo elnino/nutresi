@@ -1,6 +1,6 @@
 ---
 title   : Buah Jeruk Bali
-key     : Buah Jeruk Bali
+key     : +
 serving : 100 g (daging buah).
 calorie : 38
 protein : 0,76

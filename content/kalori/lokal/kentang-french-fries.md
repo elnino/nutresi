@@ -1,6 +1,6 @@
 ---
 title   : French Fries
-key     : Kentang Potato
+key     : Potato Kentang Goreng
 serving : 100 g.
 calorie : 312
 protein : 3,43

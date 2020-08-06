@@ -1,6 +1,6 @@
 ---
 title   : Buah Anggur
-key     : Buah Anggur
+key     : +
 serving : 100 g (daging buah).
 calorie : 69
 protein : 0,72

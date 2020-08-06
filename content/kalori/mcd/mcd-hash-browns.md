@@ -1,6 +1,6 @@
 ---
 title   : McD Hash Browns
-key     : McDonald's Kentang Hash Browns McD
+key     : McDonald's Potato Kentang Hash Browns McD
 serving : 1 porsi.
 calorie : 140
 protein : 2

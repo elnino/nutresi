@@ -1,6 +1,6 @@
 ---
 title   : Burger King French Fries
-key     : Kentang Goreng French Fries Burger King
+key     : Potato Kentang Goreng French Fries Burger King
 serving : 1 porsi large.
 calorie : 430
 protein : 5

@@ -1,6 +1,6 @@
 ---
 title   : Buah Pepaya
-key     : Buah Pepaya
+key     : +
 serving : 100 g (daging buah).
 calorie : 43
 protein : 0,47

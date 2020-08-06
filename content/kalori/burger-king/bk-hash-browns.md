@@ -1,6 +1,6 @@
 ---
 title   : Burger King Hash Browns
-key     : Kentang Hash Browns Burger King
+key     : Potato Kentang Hash Browns Burger King
 serving : 1 porsi.
 calorie : 250
 protein : 2

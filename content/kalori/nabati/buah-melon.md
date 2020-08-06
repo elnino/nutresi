@@ -1,6 +1,6 @@
 ---
 title   : Buah Melon
-key     : Buah Melon
+key     : +
 serving : 100 g (daging buah).
 calorie : 36
 protein : 0,54

@@ -1,6 +1,6 @@
 ---
 title   : Buah Mangga
-key     : Buah Mangga
+key     : +
 serving : 100 g (daging buah).
 calorie : 60
 protein : 0,82

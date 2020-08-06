@@ -1,6 +1,6 @@
 ---
 title   : Perkedel
-key     : Kentang Potato Gorengan
+key     : Potato Kentang Gorengan
 serving : 100 g.
 calorie : 143
 protein : 3,05
